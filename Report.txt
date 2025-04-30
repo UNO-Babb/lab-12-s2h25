@@ -29,16 +29,22 @@ Random:0.01909
 
 Questions to answer:
 1) What was the worst case scenario for any sorting technique?
-
+Bubble Sort on Reversed with 9.10170
 
 2) The first 3 sorts have the same runtime of O(n^2). Why were the times different? Why would one be more efficient than the others?
-
+I think eack sorts times are differ because of the different methodds.  Selection sort make fewer swaps,
+scans the entire unsorted part of the list.  Bubble sort makes more swaps when the list is reversed, and 
+insertion sort is the more efficient than the others, because it shifts elements does least comparisons in the Sorted
+cases.
 
 3) Why was merge sort so much more efficient?
-
+it divides the arrays into smaller parts repeatedly, reducing the number of comparisons.
 
 4) The built-in sorting technique for most programming languages is known as TimSort.
 This is a merge sort until the arrays have fewer than 10 elements, then it does an insertion sort. Why would this be useful?
-
+TimSort combine the best technique out of them all; merge sort being very efficient at handling larger
+portions and insertion sort work with small arrays fast.
 
 5) What issues can you see with a recursive sorting technique like merge sort?
+recursive sorting may use more memory and after researching it can cause stack overflow error because of the input
+is too large.
