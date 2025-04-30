@@ -3,29 +3,29 @@ Name:
 Number of elements:10,000
 
 Bubble Sort
-Sorted:
-Reversed:
-Random:
+Sorted: 4.36268
+Reversed: 9.10170
+Random: 7.70903
 
 Bubble Sort Early Exit
-Sorted:
-Reversed:
-Random:
+Sorted:0.00055
+Reversed:5.78729
+Random:4.67842
 
 Selection Sort
-Sorted:
-Reversed:
-Random:
+Sorted:1.96418
+Reversed:2.08095
+Random:2.12544
 
 Insertion Sort
-Sorted:
-Reversed:
-Random:
+Sorted:0.00094
+Reversed:3.99783
+Random:1.98420
 
 Merge Sort
-Sorted:
-Reversed:
-Random:
+Sorted:0.02190
+Reversed:0.02595
+Random:0.01909
 
 Questions to answer:
 1) What was the worst case scenario for any sorting technique?
