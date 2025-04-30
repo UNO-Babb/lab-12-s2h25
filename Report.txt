@@ -1,6 +1,6 @@
 Name:
 
-Number of elements:
+Number of elements:10,000
 
 Bubble Sort
 Sorted:
